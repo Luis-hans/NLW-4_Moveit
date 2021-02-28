@@ -31,8 +31,11 @@
 }
 
 body {
-    background: var(--background);
+    background: url('/Simbolo.png') no-repeat left;
+    background-size: contain;
+    background-color: #c6e2ff;
     color: var(--text);
+
 }
 
 body, input, textarea, button{

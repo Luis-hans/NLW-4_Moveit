@@ -71,4 +71,5 @@
     background: var(--white);
     color: var(--text);
     cursor: not-allowed;
+    box-shadow: 0 5px var(--green);
 }
